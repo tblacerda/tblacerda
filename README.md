@@ -1,4 +1,4 @@
-# Hi there, I'm tblacerda 👋
+# Hi there, I'm Tiago 👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
