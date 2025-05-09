@@ -19,6 +19,6 @@ A professional with solid technical experience and strategic vision, I thrive at
 I believe in the synergy between technical rigor and human collaboration. My approach balances detailed data analysis with a systemic vision, aiming not just to solve problems but to anticipate challenges and scale impactful solutions.
 
 ## 🌐 Find Me Online
-- 💼 [LinkedIn]([https://linkedin.com/in/tblacerda](https://www.linkedin.com/in/tiago-beltrao-lacerda-pmp/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/tiago-beltrao-lacerda-pmp/))
 
 
