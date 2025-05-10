@@ -1,4 +1,5 @@
 # Hi there, I'm Tiago 👋
+<img src="{https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black}" />
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -20,5 +21,4 @@ I believe in the synergy between technical rigor and human collaboration. My app
 
 ## 🌐 Find Me Online
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiago-beltrao-lacerda-pmp/)
-
 
