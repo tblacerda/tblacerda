@@ -1,5 +1,7 @@
 # Hi there, I'm Tiago 👋
+
 <img src="{https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black}" />
+
 
 Welcome to my GitHub profile! Here's a little about me:
 
